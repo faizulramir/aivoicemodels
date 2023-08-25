@@ -3,5 +3,5 @@
 <br /><br />
 <p>List of voices:</p>
 <ul>
-  <li>Awie</li>
+  <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/awie">Awie</a></li>
 </ul>
