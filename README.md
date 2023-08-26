@@ -4,5 +4,5 @@
 <p>List of voices:</p>
 <ul>
   <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/awie">Awie</a></li>
-  <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/saleem">Awie</a></li>
+  <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/saleem">Saleem</a></li>
 </ul>
