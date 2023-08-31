@@ -10,5 +10,6 @@
     </ul>
   </li>
   <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/saleem">Saleem</a></li>
+  <li><a href="https://github.com/faizulramir/aivoicemodels/releases/tag/hazama">Hazama</a></li>
 </ul>
 <p>This models were trained using RVCv2. Some models might not be perfect. Kindly tune it as you want to.</p>
